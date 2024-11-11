@@ -1,0 +1,13 @@
+C:\Development\Store APIs\Yacell.Store.APIs\Yacell.StoreAPIs.Common\bin\Debug\net6.0\Yacell.StoreAPIs.Common.deps.json
+C:\Development\Store APIs\Yacell.Store.APIs\Yacell.StoreAPIs.Common\bin\Debug\net6.0\Yacell.StoreAPIs.Common.runtimeconfig.json
+C:\Development\Store APIs\Yacell.Store.APIs\Yacell.StoreAPIs.Common\bin\Debug\net6.0\Yacell.StoreAPIs.Common.dll
+C:\Development\Store APIs\Yacell.Store.APIs\Yacell.StoreAPIs.Common\bin\Debug\net6.0\Yacell.StoreAPIs.Common.pdb
+C:\Development\Store APIs\Yacell.Store.APIs\Yacell.StoreAPIs.Common\obj\Debug\net6.0\Yacell.StoreAPIs.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Store APIs\Yacell.Store.APIs\Yacell.StoreAPIs.Common\obj\Debug\net6.0\Yacell.StoreAPIs.Common.AssemblyInfoInputs.cache
+C:\Development\Store APIs\Yacell.Store.APIs\Yacell.StoreAPIs.Common\obj\Debug\net6.0\Yacell.StoreAPIs.Common.AssemblyInfo.cs
+C:\Development\Store APIs\Yacell.Store.APIs\Yacell.StoreAPIs.Common\obj\Debug\net6.0\Yacell.StoreAPIs.Common.csproj.CoreCompileInputs.cache
+C:\Development\Store APIs\Yacell.Store.APIs\Yacell.StoreAPIs.Common\obj\Debug\net6.0\Yacell.StoreAPIs.Common.dll
+C:\Development\Store APIs\Yacell.Store.APIs\Yacell.StoreAPIs.Common\obj\Debug\net6.0\refint\Yacell.StoreAPIs.Common.dll
+C:\Development\Store APIs\Yacell.Store.APIs\Yacell.StoreAPIs.Common\obj\Debug\net6.0\Yacell.StoreAPIs.Common.pdb
+C:\Development\Store APIs\Yacell.Store.APIs\Yacell.StoreAPIs.Common\obj\Debug\net6.0\Yacell.StoreAPIs.Common.genruntimeconfig.cache
+C:\Development\Store APIs\Yacell.Store.APIs\Yacell.StoreAPIs.Common\obj\Debug\net6.0\ref\Yacell.StoreAPIs.Common.dll

@@ -1,0 +1,338 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Development\\Store APIs\\Yacell.Store.APIs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/StoreDb/True/SqlTable/dbo.Customers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CC9F93-8C5D-443F-A6E9-3826B31B1FD3}|Yacell.Store.APIs\\Yacell.Store.APIs.csproj|c:\\development\\store apis\\yacell.store.apis\\yacell.store.apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37CC9F93-8C5D-443F-A6E9-3826B31B1FD3}|Yacell.Store.APIs\\Yacell.Store.APIs.csproj|solutionrelative:yacell.store.apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372596BA-EA09-4164-9738-B65F464706BA}|Yacell.StoreAPIs.Data\\Yacell.StoreAPIs.Data.csproj|c:\\development\\store apis\\yacell.store.apis\\yacell.storeapis.data\\yacellstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372596BA-EA09-4164-9738-B65F464706BA}|Yacell.StoreAPIs.Data\\Yacell.StoreAPIs.Data.csproj|solutionrelative:yacell.storeapis.data\\yacellstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372596BA-EA09-4164-9738-B65F464706BA}|Yacell.StoreAPIs.Data\\Yacell.StoreAPIs.Data.csproj|c:\\development\\store apis\\yacell.store.apis\\yacell.storeapis.data\\migrations\\yacellstorecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372596BA-EA09-4164-9738-B65F464706BA}|Yacell.StoreAPIs.Data\\Yacell.StoreAPIs.Data.csproj|solutionrelative:yacell.storeapis.data\\migrations\\yacellstorecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372596BA-EA09-4164-9738-B65F464706BA}|Yacell.StoreAPIs.Data\\Yacell.StoreAPIs.Data.csproj|c:\\development\\store apis\\yacell.store.apis\\yacell.storeapis.data\\migrations\\20241111200310_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372596BA-EA09-4164-9738-B65F464706BA}|Yacell.StoreAPIs.Data\\Yacell.StoreAPIs.Data.csproj|solutionrelative:yacell.storeapis.data\\migrations\\20241111200310_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CC9F93-8C5D-443F-A6E9-3826B31B1FD3}|Yacell.Store.APIs\\Yacell.Store.APIs.csproj|c:\\development\\store apis\\yacell.store.apis\\yacell.store.apis\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37CC9F93-8C5D-443F-A6E9-3826B31B1FD3}|Yacell.Store.APIs\\Yacell.Store.APIs.csproj|solutionrelative:yacell.store.apis\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372596BA-EA09-4164-9738-B65F464706BA}|Yacell.StoreAPIs.Data\\Yacell.StoreAPIs.Data.csproj|c:\\development\\store apis\\yacell.store.apis\\yacell.storeapis.data\\entities\\customerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372596BA-EA09-4164-9738-B65F464706BA}|Yacell.StoreAPIs.Data\\Yacell.StoreAPIs.Data.csproj|solutionrelative:yacell.storeapis.data\\entities\\customerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CC9F93-8C5D-443F-A6E9-3826B31B1FD3}|Yacell.Store.APIs\\Yacell.Store.APIs.csproj|c:\\development\\store apis\\yacell.store.apis\\yacell.store.apis\\repositories\\contracts\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37CC9F93-8C5D-443F-A6E9-3826B31B1FD3}|Yacell.Store.APIs\\Yacell.Store.APIs.csproj|solutionrelative:yacell.store.apis\\repositories\\contracts\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CC9F93-8C5D-443F-A6E9-3826B31B1FD3}|Yacell.Store.APIs\\Yacell.Store.APIs.csproj|c:\\development\\store apis\\yacell.store.apis\\yacell.store.apis\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37CC9F93-8C5D-443F-A6E9-3826B31B1FD3}|Yacell.Store.APIs\\Yacell.Store.APIs.csproj|solutionrelative:yacell.store.apis\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CC9F93-8C5D-443F-A6E9-3826B31B1FD3}|Yacell.Store.APIs\\Yacell.Store.APIs.csproj|c:\\development\\store apis\\yacell.store.apis\\yacell.store.apis\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37CC9F93-8C5D-443F-A6E9-3826B31B1FD3}|Yacell.Store.APIs\\Yacell.Store.APIs.csproj|solutionrelative:yacell.store.apis\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CC9F93-8C5D-443F-A6E9-3826B31B1FD3}|Yacell.Store.APIs\\Yacell.Store.APIs.csproj|c:\\development\\store apis\\yacell.store.apis\\yacell.store.apis\\services\\contracts\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37CC9F93-8C5D-443F-A6E9-3826B31B1FD3}|Yacell.Store.APIs\\Yacell.Store.APIs.csproj|solutionrelative:yacell.store.apis\\services\\contracts\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA19614-AD3F-42E3-8C4D-A0C3FF877C72}|Yacell.StoreAPIs.Common\\Yacell.StoreAPIs.Common.csproj|c:\\development\\store apis\\yacell.store.apis\\yacell.storeapis.common\\responseobjects\\customerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA19614-AD3F-42E3-8C4D-A0C3FF877C72}|Yacell.StoreAPIs.Common\\Yacell.StoreAPIs.Common.csproj|solutionrelative:yacell.storeapis.common\\responseobjects\\customerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA19614-AD3F-42E3-8C4D-A0C3FF877C72}|Yacell.StoreAPIs.Common\\Yacell.StoreAPIs.Common.csproj|c:\\development\\store apis\\yacell.store.apis\\yacell.storeapis.common\\requestobjects\\customerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA19614-AD3F-42E3-8C4D-A0C3FF877C72}|Yacell.StoreAPIs.Common\\Yacell.StoreAPIs.Common.csproj|solutionrelative:yacell.storeapis.common\\requestobjects\\customerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372596BA-EA09-4164-9738-B65F464706BA}|Yacell.StoreAPIs.Data\\Yacell.StoreAPIs.Data.csproj|c:\\development\\store apis\\yacell.store.apis\\yacell.storeapis.data\\contracts\\iyacellstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372596BA-EA09-4164-9738-B65F464706BA}|Yacell.StoreAPIs.Data\\Yacell.StoreAPIs.Data.csproj|solutionrelative:yacell.storeapis.data\\contracts\\iyacellstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA19614-AD3F-42E3-8C4D-A0C3FF877C72}|Yacell.StoreAPIs.Common\\Yacell.StoreAPIs.Common.csproj|c:\\development\\store apis\\yacell.store.apis\\yacell.storeapis.common\\requestobjects\\contracts\\requestabstractbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA19614-AD3F-42E3-8C4D-A0C3FF877C72}|Yacell.StoreAPIs.Common\\Yacell.StoreAPIs.Common.csproj|solutionrelative:yacell.storeapis.common\\requestobjects\\contracts\\requestabstractbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372596BA-EA09-4164-9738-B65F464706BA}|Yacell.StoreAPIs.Data\\Yacell.StoreAPIs.Data.csproj|c:\\development\\store apis\\yacell.store.apis\\yacell.storeapis.data\\entities\\orderentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372596BA-EA09-4164-9738-B65F464706BA}|Yacell.StoreAPIs.Data\\Yacell.StoreAPIs.Data.csproj|solutionrelative:yacell.storeapis.data\\entities\\orderentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CC9F93-8C5D-443F-A6E9-3826B31B1FD3}|Yacell.Store.APIs\\Yacell.Store.APIs.csproj|c:\\development\\store apis\\yacell.store.apis\\yacell.store.apis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{37CC9F93-8C5D-443F-A6E9-3826B31B1FD3}|Yacell.Store.APIs\\Yacell.Store.APIs.csproj|solutionrelative:yacell.store.apis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CC9F93-8C5D-443F-A6E9-3826B31B1FD3}|Yacell.Store.APIs\\Yacell.Store.APIs.csproj|c:\\development\\store apis\\yacell.store.apis\\yacell.store.apis\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{37CC9F93-8C5D-443F-A6E9-3826B31B1FD3}|Yacell.Store.APIs\\Yacell.Store.APIs.csproj|solutionrelative:yacell.store.apis\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Customers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/StoreDb/True/SqlTable/dbo.Customers.sql",
+              "ToolTip": "dbo.Customers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-11T21:10:55.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "YacellStoreContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Development\\Store APIs\\Yacell.Store.APIs\\Yacell.StoreAPIs.Data\\Migrations\\YacellStoreContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Yacell.StoreAPIs.Data\\Migrations\\YacellStoreContextModelSnapshot.cs",
+              "ToolTip": "C:\\Development\\Store APIs\\Yacell.Store.APIs\\Yacell.StoreAPIs.Data\\Migrations\\YacellStoreContextModelSnapshot.cs",
+              "RelativeToolTip": "Yacell.StoreAPIs.Data\\Migrations\\YacellStoreContextModelSnapshot.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T21:07:10.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241111200310_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Development\\Store APIs\\Yacell.Store.APIs\\Yacell.StoreAPIs.Data\\Migrations\\20241111200310_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Yacell.StoreAPIs.Data\\Migrations\\20241111200310_InitialCreate.cs",
+              "ToolTip": "C:\\Development\\Store APIs\\Yacell.Store.APIs\\Yacell.StoreAPIs.Data\\Migrations\\20241111200310_InitialCreate.cs",
+              "RelativeToolTip": "Yacell.StoreAPIs.Data\\Migrations\\20241111200310_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T21:07:07.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Development\\Store APIs\\Yacell.Store.APIs\\Yacell.Store.APIs\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Yacell.Store.APIs\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Development\\Store APIs\\Yacell.Store.APIs\\Yacell.Store.APIs\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Yacell.Store.APIs\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:45:24.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Development\\Store APIs\\Yacell.Store.APIs\\Yacell.Store.APIs\\Program.cs",
+              "RelativeDocumentMoniker": "Yacell.Store.APIs\\Program.cs",
+              "ToolTip": "C:\\Development\\Store APIs\\Yacell.Store.APIs\\Yacell.Store.APIs\\Program.cs",
+              "RelativeToolTip": "Yacell.Store.APIs\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:41:18.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "YacellStoreContext.cs",
+              "DocumentMoniker": "C:\\Development\\Store APIs\\Yacell.Store.APIs\\Yacell.StoreAPIs.Data\\YacellStoreContext.cs",
+              "RelativeDocumentMoniker": "Yacell.StoreAPIs.Data\\YacellStoreContext.cs",
+              "ToolTip": "C:\\Development\\Store APIs\\Yacell.Store.APIs\\Yacell.StoreAPIs.Data\\YacellStoreContext.cs",
+              "RelativeToolTip": "Yacell.StoreAPIs.Data\\YacellStoreContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:39:53.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Development\\Store APIs\\Yacell.Store.APIs\\Yacell.Store.APIs\\Services\\Contracts\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "Yacell.Store.APIs\\Services\\Contracts\\ICustomerService.cs",
+              "ToolTip": "C:\\Development\\Store APIs\\Yacell.Store.APIs\\Yacell.Store.APIs\\Services\\Contracts\\ICustomerService.cs",
+              "RelativeToolTip": "Yacell.Store.APIs\\Services\\Contracts\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T20:43:46.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Development\\Store APIs\\Yacell.Store.APIs\\Yacell.Store.APIs\\Repositories\\Contracts\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "Yacell.Store.APIs\\Repositories\\Contracts\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Development\\Store APIs\\Yacell.Store.APIs\\Yacell.Store.APIs\\Repositories\\Contracts\\ICustomerRepository.cs",
+              "RelativeToolTip": "Yacell.Store.APIs\\Repositories\\Contracts\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T20:24:57.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerEntity.cs",
+              "DocumentMoniker": "C:\\Development\\Store APIs\\Yacell.Store.APIs\\Yacell.StoreAPIs.Data\\Entities\\CustomerEntity.cs",
+              "RelativeDocumentMoniker": "Yacell.StoreAPIs.Data\\Entities\\CustomerEntity.cs",
+              "ToolTip": "C:\\Development\\Store APIs\\Yacell.Store.APIs\\Yacell.StoreAPIs.Data\\Entities\\CustomerEntity.cs",
+              "RelativeToolTip": "Yacell.StoreAPIs.Data\\Entities\\CustomerEntity.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:27:42.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Development\\Store APIs\\Yacell.Store.APIs\\Yacell.Store.APIs\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Yacell.Store.APIs\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Development\\Store APIs\\Yacell.Store.APIs\\Yacell.Store.APIs\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "Yacell.Store.APIs\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T20:24:45.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Development\\Store APIs\\Yacell.Store.APIs\\Yacell.Store.APIs\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Yacell.Store.APIs\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Development\\Store APIs\\Yacell.Store.APIs\\Yacell.Store.APIs\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Yacell.Store.APIs\\Services\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T20:44:37.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerResponse.cs",
+              "DocumentMoniker": "C:\\Development\\Store APIs\\Yacell.Store.APIs\\Yacell.StoreAPIs.Common\\ResponseObjects\\CustomerResponse.cs",
+              "RelativeDocumentMoniker": "Yacell.StoreAPIs.Common\\ResponseObjects\\CustomerResponse.cs",
+              "ToolTip": "C:\\Development\\Store APIs\\Yacell.Store.APIs\\Yacell.StoreAPIs.Common\\ResponseObjects\\CustomerResponse.cs",
+              "RelativeToolTip": "Yacell.StoreAPIs.Common\\ResponseObjects\\CustomerResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T20:39:51.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerRequest.cs",
+              "DocumentMoniker": "C:\\Development\\Store APIs\\Yacell.Store.APIs\\Yacell.StoreAPIs.Common\\RequestObjects\\CustomerRequest.cs",
+              "RelativeDocumentMoniker": "Yacell.StoreAPIs.Common\\RequestObjects\\CustomerRequest.cs",
+              "ToolTip": "C:\\Development\\Store APIs\\Yacell.Store.APIs\\Yacell.StoreAPIs.Common\\RequestObjects\\CustomerRequest.cs",
+              "RelativeToolTip": "Yacell.StoreAPIs.Common\\RequestObjects\\CustomerRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T20:30:30.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IYacellStoreContext.cs",
+              "DocumentMoniker": "C:\\Development\\Store APIs\\Yacell.Store.APIs\\Yacell.StoreAPIs.Data\\Contracts\\IYacellStoreContext.cs",
+              "RelativeDocumentMoniker": "Yacell.StoreAPIs.Data\\Contracts\\IYacellStoreContext.cs",
+              "ToolTip": "C:\\Development\\Store APIs\\Yacell.Store.APIs\\Yacell.StoreAPIs.Data\\Contracts\\IYacellStoreContext.cs",
+              "RelativeToolTip": "Yacell.StoreAPIs.Data\\Contracts\\IYacellStoreContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T20:35:45.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RequestAbstractBase.cs",
+              "DocumentMoniker": "C:\\Development\\Store APIs\\Yacell.Store.APIs\\Yacell.StoreAPIs.Common\\RequestObjects\\Contracts\\RequestAbstractBase.cs",
+              "RelativeDocumentMoniker": "Yacell.StoreAPIs.Common\\RequestObjects\\Contracts\\RequestAbstractBase.cs",
+              "ToolTip": "C:\\Development\\Store APIs\\Yacell.Store.APIs\\Yacell.StoreAPIs.Common\\RequestObjects\\Contracts\\RequestAbstractBase.cs",
+              "RelativeToolTip": "Yacell.StoreAPIs.Common\\RequestObjects\\Contracts\\RequestAbstractBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T20:33:12.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderEntity.cs",
+              "DocumentMoniker": "C:\\Development\\Store APIs\\Yacell.Store.APIs\\Yacell.StoreAPIs.Data\\Entities\\OrderEntity.cs",
+              "RelativeDocumentMoniker": "Yacell.StoreAPIs.Data\\Entities\\OrderEntity.cs",
+              "ToolTip": "C:\\Development\\Store APIs\\Yacell.Store.APIs\\Yacell.StoreAPIs.Data\\Entities\\OrderEntity.cs",
+              "RelativeToolTip": "Yacell.StoreAPIs.Data\\Entities\\OrderEntity.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:28:32.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Development\\Store APIs\\Yacell.Store.APIs\\Yacell.Store.APIs\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Yacell.Store.APIs\\appsettings.Development.json",
+              "ToolTip": "C:\\Development\\Store APIs\\Yacell.Store.APIs\\Yacell.Store.APIs\\appsettings.Development.json",
+              "RelativeToolTip": "Yacell.Store.APIs\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-11T18:47:40.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Development\\Store APIs\\Yacell.Store.APIs\\Yacell.Store.APIs\\appsettings.json",
+              "RelativeDocumentMoniker": "Yacell.Store.APIs\\appsettings.json",
+              "ToolTip": "C:\\Development\\Store APIs\\Yacell.Store.APIs\\Yacell.Store.APIs\\appsettings.json",
+              "RelativeToolTip": "Yacell.Store.APIs\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-11T18:42:51.137Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

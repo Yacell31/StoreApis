@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "Yacell.Store.APIs.Controllers.HomeController",
+    "Method": "GetClientList",
+    "RelativePath": "Clients",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
